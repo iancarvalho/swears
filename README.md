@@ -1,2 +1,2 @@
 # swears
-Small screen library for Linux that is similar to curses
+Small screen library for Linux that works similar to curses
