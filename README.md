@@ -1,2 +1,3 @@
 # swears
-Small screen library for Linux that works similar to curses
+Screen library for Linux that works similar to curses but is much more lightweight.
+Developed this mainly to support terminal modes over slow dial up links.
